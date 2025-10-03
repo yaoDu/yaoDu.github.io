@@ -1,0 +1,92 @@
+[
+  {
+    "id": "r1",
+    "title": "Reviewer",
+    "organization": "IEEE TMC, IEEE TSC, ACM TWEB, Elsevier EEAI",
+    "role": "Peer Reviewer",
+    "year": "2025",
+    "category": "reviewer",
+    "description": "Provided peer reviews for IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, ACM Transactions on the Web, and Elsevier Engineering Applications of Artificial Intelligence."
+  },
+  {
+    "id": "r2",
+    "title": "Reviewer",
+    "organization": "ACM CSUR",
+    "role": "Peer Reviewer",
+    "year": "2024–2025",
+    "category": "reviewer",
+    "description": "Provided peer reviews for ACM Computing Surveys."
+  },
+  {
+    "id": "r3",
+    "title": "Reviewer",
+    "organization": "IEEE IoTJ",
+    "role": "Peer Reviewer",
+    "year": "2022–2025",
+    "category": "reviewer",
+    "description": "Provided peer reviews for IEEE Internet of Things Journal."
+  },
+  {
+    "id": "r4",
+    "title": "Workshop TPC Member",
+    "organization": "Online Evolutive Learning in WF-IoT",
+    "role": "Technical Program Committee",
+    "year": "2024",
+    "category": "reviewer",
+    "description": "Served on the technical program committee for workshop on online evolutive learning."
+  },
+  {
+    "id": "r5",
+    "title": "Reviewer",
+    "organization": "IEEE TWC",
+    "role": "Peer Reviewer",
+    "year": "2019–2023",
+    "category": "reviewer",
+    "description": "Provided peer reviews for IEEE Transactions on Wireless Communications."
+  },
+  {
+    "id": "s1",
+    "title": "Student Volunteer",
+    "organization": "Blockchain Technology Symposium",
+    "role": "Volunteer",
+    "year": "July 2025",
+    "category": "service",
+    "description": "Supported organization and execution of the Blockchain Technology Symposium, facilitating discussions between academia and industry."
+  },
+  {
+    "id": "s2",
+    "title": "Student Mentor",
+    "organization": "Blockchain & Responsible AI Hackathon",
+    "role": "Mentor",
+    "year": "July 2025",
+    "category": "service",
+    "description": "Mentored students on blockchain technology and AI applications, guiding hackathon teams through technical challenges."
+  },
+  {
+    "id": "s3",
+    "title": "Pitch Presenter",
+    "organization": "Driving the Future of On-Device AI",
+    "role": "Presenter",
+    "year": "October 2024",
+    "category": "service",
+    "description": "Presented research on edge AI and decentralized machine learning at industry-focused event."
+  },
+  {
+    "id": "s4",
+    "title": "Student Volunteer",
+    "organization": "Blockchain@UBC Industry Night",
+    "role": "Volunteer",
+    "year": "October 2024",
+    "category": "service",
+    "description": "Organized networking event connecting UBC blockchain researchers with industry partners."
+  },
+  {
+    "id": "s5",
+    "title": "Student Volunteer",
+    "organization": "IEEE INFOCOM",
+    "role": "Volunteer",
+    "year": "May 2024",
+    "category": "service",
+    "description": "Supported logistics and sessions at one of the premier conferences in networking and communications."
+  }
+]

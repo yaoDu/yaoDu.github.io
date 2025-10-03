@@ -1,0 +1,227 @@
+[
+  {
+    "id": "j1",
+    "title": "Decentralized Model Selection for Test-Time Adaptation in Heterogeneous Connected Systems",
+    "authors": "Yao Du, Cyril Leung, Zehua Wang, Xiaoxiao Li, Victor C.M. Leung",
+    "venue": "ACM Transactions on the Web",
+    "year": 2025,
+    "month": "August",
+    "pages": "1--25",
+    "type": "journal",
+    "selected": true,
+    "status": "Accepted",
+    "tags": ["Distributed ML", "Edge Computing", "Inference Optimization"],
+    "links": {
+      "url": "https://dl.acm.org/doi/abs/10.1145/3764936"
+    },
+    "note": "JCR Q1 in Computer science, Software engineering",
+    "image": "/images/research/j1-overview.png"
+  },
+  {
+    "id": "j2",
+    "title": "Towards Collaborative Edge Intelligence: Blockchain-Based Data Valuation and Scheduling for Improved Quality of Service",
+    "authors": "Yao Du, Zehua Wang, Cyril Leung, Victor C.M. Leung",
+    "venue": "Future Internet",
+    "year": 2024,
+    "month": "July",
+    "volume": "16",
+    "issue": "8",
+    "pages": "1--23",
+    "type": "journal",
+    "selected": false,
+    "tags": ["Blockchain", "Scheduling", "Data Quality"],
+    "links": {
+      "url": "https://www.mdpi.com/1999-5903/16/8/267"
+    },
+    "note": "JCR Q2 in Computer science, Information systems"
+  },
+  {
+    "id": "j3",
+    "title": "Accelerating and Securing Blockchain-Enabled Distributed Machine Learning",
+    "authors": "Yao Du, Zehua Wang, Cyril Leung, Victor C.M. Leung",
+    "venue": "IEEE Transactions on Mobile Computing",
+    "year": 2024,
+    "month": "June",
+    "volume": "23",
+    "issue": "6",
+    "pages": "6712--6730",
+    "type": "journal",
+    "selected": true,
+    "tags": ["Blockchain", "Distributed ML", "Security"],
+    "links": {
+      "url": "https://ieeexplore.ieee.org/abstract/document/10288252"
+    },
+    "note": "JCR Q1 in Computer science, Information systems",
+    "image": "/images/research/j3-architecture.png"
+  },
+  {
+    "id": "j4",
+    "title": "Blockchain-Enabled Edge Intelligence for IoT: Background, Emerging Trends and Open Issues",
+    "authors": "Yao Du, Zehua Wang, Victor C.M. Leung",
+    "venue": "Future Internet",
+    "year": 2021,
+    "month": "February",
+    "volume": "13",
+    "issue": "2",
+    "pages": "1--21",
+    "type": "journal",
+    "selected": false,
+    "tags": ["Blockchain", "Edge Computing", "Survey"],
+    "links": {
+      "url": "https://www.mdpi.com/1999-5903/13/2/48"
+    },
+    "note": "JCR Q2 in Computer science, Information systems"
+  },
+  {
+    "id": "j5",
+    "title": "Joint Resources and Workflow Scheduling in UAV-Enabled Wirelessly-Powered MEC for IoT Systems",
+    "authors": "Yao Du, Kun Yang, Kezhi Wang, Guopeng Zhang, Yizhe Zhao, Dongwei Chen",
+    "venue": "IEEE Transactions on Vehicular Technology",
+    "year": 2019,
+    "month": "October",
+    "volume": "68",
+    "issue": "10",
+    "pages": "10187--10200",
+    "type": "journal",
+    "selected": true,
+    "tags": ["Edge Computing", "Scheduling"],
+    "links": {
+      "url": "https://ieeexplore.ieee.org/abstract/document/8805125"
+    },
+    "citations": "200+",
+    "note": "JCR Q1 in Telecommunications",
+    "image": "/images/research/j5-system.png"
+  },
+  {
+    "id": "j6",
+    "title": "Energy-Efficient Joint Resource Allocation Algorithms for MEC-Enabled Emotional Computing in Urban Communities",
+    "authors": "Ziyan Yang, Yao Du, Chang Che, Wenyong Wang, Haibo Mei, Dongdai Zhou, Kun Yang",
+    "venue": "IEEE Access",
+    "year": 2019,
+    "month": "September",
+    "volume": "7",
+    "pages": "137410--137419",
+    "type": "journal",
+    "selected": false,
+    "tags": ["Edge Computing"],
+    "links": {
+      "url": "https://ieeexplore.ieee.org/abstract/document/8844659"
+    },
+    "note": "JCR Q2 in Computer science, Information systems"
+  },
+  {
+    "id": "m1",
+    "title": "Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey",
+    "authors": "Jing Liu, Yao Du, Kun Yang, Jiaqi Wu, Yan Wang, Xiping Hu, Zehua Wang, Yang Liu, Peng Sun, Azzedine Boukerche, Victor C.M. Leung",
+    "venue": "Journal Manuscript",
+    "year": 2025,
+    "month": "May",
+    "pages": "1--43",
+    "type": "manuscript",
+    "selected": false,
+    "status": "under review, IEEE Communications Surveys & Tutorials",
+    "tags": ["Edge Computing", "Distributed ML", "Survey"],
+    "links": {
+      "url": "https://arxiv.org/abs/2505.01821",
+      "arxiv": "https://arxiv.org/abs/2505.01821"
+    }
+  },
+  {
+    "id": "c1",
+    "title": "Time-Division Online Speculative Inference for Cost-Effective Intelligent Internet of Things",
+    "authors": "Yao Du, Zehua Wang, Cyril Leung, Victor C.M. Leung",
+    "venue": "Proceedings of IEEE World Forum on Internet of Things (WF-IoT)",
+    "year": 2024,
+    "month": "November",
+    "location": "Ottawa, Canada",
+    "pages": "1--6",
+    "type": "conference",
+    "selected": false,
+    "tags": ["Edge Computing", "Inference Optimization"],
+    "links": {
+      "url": "https://ieeexplore.ieee.org/abstract/document/10811332"
+    }
+  },
+  {
+    "id": "c2",
+    "title": "Blockchain-Based Data Quality Assessment to Improve Distributed Machine Learning",
+    "authors": "Yao Du, Zehua Wang, Cyril Leung, Victor C.M. Leung",
+    "venue": "Proceedings of International Conference on Computing, Networking and Communications (ICNC)",
+    "year": 2023,
+    "month": "February",
+    "location": "Honolulu, HI, USA",
+    "pages": "170--175",
+    "type": "conference",
+    "selected": false,
+    "tags": ["Blockchain", "Distributed ML", "Data Quality"],
+    "links": {
+      "url": "https://ieeexplore.ieee.org/abstract/document/10074543"
+    }
+  },
+  {
+    "id": "c3",
+    "title": "Accelerating Blockchain-Enabled Distributed Machine Learning by Proof of Useful Work",
+    "authors": "Yao Du, Cyril Leung, Zehua Wang, Victor C.M. Leung",
+    "venue": "Proceedings of IEEE/ACM International Symposium on Quality of Service (IWQoS)",
+    "year": 2022,
+    "month": "June",
+    "location": "Oslo, Norway",
+    "pages": "1--10",
+    "type": "conference",
+    "selected": true,
+    "acceptance": "24.3%",
+    "tags": ["Blockchain", "Distributed ML", "Consensus Protocols"],
+    "links": {
+      "url": "https://ieeexplore.ieee.org/abstract/document/9812927"
+    },
+    "image": "/images/research/c3-workflow.png"
+  },
+  {
+    "id": "c4",
+    "title": "Trajectory Design of Laser-Powered Multi-Drone Enabled Data Collection System for Smart Cities",
+    "authors": "Yao Du, Kezhi Wang, Kun Yang, Guopeng Zhang",
+    "venue": "Proceedings of IEEE Global Communications Conference (GLOBECOM)",
+    "year": 2019,
+    "month": "December",
+    "location": "Waikoloa, HI, USA",
+    "pages": "1--6",
+    "type": "conference",
+    "selected": false,
+    "tags": ["Edge Computing", "Scheduling"],
+    "links": {
+      "url": "https://ieeexplore.ieee.org/abstract/document/9013552"
+    }
+  },
+  {
+    "id": "c5",
+    "title": "Energy-Efficient Resource Allocation in UAV Based MEC System for IoT Devices",
+    "authors": "Yao Du, Kezhi Wang, Kun Yang, Guopeng Zhang",
+    "venue": "Proceedings of IEEE Global Communications Conference (GLOBECOM)",
+    "year": 2018,
+    "month": "December",
+    "location": "Abu Dhabi, UAE",
+    "pages": "1--6",
+    "type": "conference",
+    "selected": false,
+    "tags": ["Edge Computing", "Scheduling"],
+    "links": {
+      "url": "https://ieeexplore.ieee.org/abstract/document/8647789"
+    }
+  },
+  {
+    "id": "b1",
+    "title": "Blockchain-Empowered Mobile Edge Intelligence, Machine Learning and Secure Data Sharing",
+    "authors": "Yao Du, Shuxiao Miao, Zitian Tong, Victoria Lemieux, Zehua Wang",
+    "venue": "Advances in the Convergence of Blockchain and Artificial Intelligence",
+    "year": 2021,
+    "type": "chapter",
+    "selected": false,
+    "pages": "47--72",
+    "chapter": "4",
+    "publisher": "IntechOpen",
+    "tags": ["Blockchain", "Edge Computing", "Security"],
+    "links": {
+      "url": "https://www.intechopen.com/chapters/75695"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "t1",
+    "role": "Guest Lecturer",
+    "course": "Blockchain Technology",
+    "code": "EECE 571B, ARST 575N",
+    "institution": "University of British Columbia",
+    "terms": ["Summer 2025", "Winter 2023", "Summer 2021"],
+    "students": "30+",
+    "level": "Graduate",
+    "description": "Delivered lectures on blockchain fundamentals, consensus mechanisms, and decentralized applications to graduate students across multiple terms."
+  },
+  {
+    "id": "t2",
+    "role": "Teaching Assistant",
+    "course": "Information and Coding Theory",
+    "code": "EECE 566",
+    "institution": "University of British Columbia",
+    "terms": ["2021–2022"],
+    "students": "20+",
+    "level": "Graduate",
+    "description": "Mentored graduate students with over 100 hours of engagement including Q&A lectures and grading. Edited course materials and led interactive discussions to enhance concept mastery."
+  },
+  {
+    "id": "t3",
+    "role": "Teaching Assistant",
+    "course": "Stochastic Signals and Systems",
+    "code": "ELEC/STAT 321",
+    "institution": "University of British Columbia",
+    "terms": ["2021–2022"],
+    "students": "100+",
+    "level": "Undergraduate",
+    "description": "Independently led 3-hour weekly tutorials providing real-time feedback to boost engagement. Collaborated with faculty and TAs to design exams and tutorial slides."
+  },
+  {
+    "id": "t4",
+    "role": "Teaching Assistant",
+    "course": "Elements of Information Theory",
+    "code": "UESTC 3021",
+    "institution": "University of Electronic Science and Technology of China",
+    "terms": ["2018–2019"],
+    "students": "60+",
+    "level": "Undergraduate",
+    "description": "Mentored undergraduate students for over 60 hours on assignments and final projects. Delivered Q&A lectures and graded over 60 final reports and 360+ assignments."
+  }
+]
