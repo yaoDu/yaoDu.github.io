@@ -1,0 +1,31 @@
+{
+  "name": "Yao Du",
+  "title": "PhD Candidate",
+  "institution": "University of British Columbia",
+  "location": "Vancouver, Canada",
+  "bio": "I'm a final-year PhD candidate at UBC specializing in blockchain-enabled decentralized machine learning and edge AI systems. My research focuses on developing reliable, fair, and efficient distributed learning frameworks that preserve data sovereignty while enabling collaborative intelligence at the edge.",
+  "email": "yaodu94@student.ubc.ca",
+  "links": {
+    "scholar": "https://scholar.google.com/citations?hl=en&user=gSY7FmwAAAAJ&view_op=list_works&sortby=pubdate",
+    "github": "https://github.com/yaodu2024",
+    "linkedin": "https://linkedin.com/in/yaodu2024",
+    "orcid": "0000-0002-9086-5467",
+    "website": "https://ece.ubc.ca",
+    "blockchain": "https://blockchain.ubc.ca/people/yao-du"
+  },
+  "status": "Successfully defended thesis on September 5, 2025",
+  "news": [
+    {
+      "date": "September 2025",
+      "text": "Successfully defended PhD thesis"
+    },
+    {
+      "date": "August 2025",
+      "text": "Paper accepted to ACM Transactions on the Web (Q1 journal)"
+    },
+    {
+      "date": "July 2025",
+      "text": "Mentored students at Blockchain & Responsible AI Hackathon"
+    }
+  ]
+}
