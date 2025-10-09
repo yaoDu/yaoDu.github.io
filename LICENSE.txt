@@ -1,0 +1,45 @@
+All Rights Reserved © 2025 Yao Du
+
+This repository hosts the compiled and deployed version of a personal academic website
+and an interactive Augmented Reality (AR) demonstration with on-device AI inference.
+
+No part of this website’s content, images, models, or design may be reproduced, modified,
+or redistributed without prior written permission from the author.
+
+---
+
+Technical Frameworks and Standards
+
+This project is built using open-source frameworks and open standards, including:
+
+• React, Vite, shadcn-ui, and Tailwind CSS — each distributed under its own MIT License.
+• Model Viewer (WebGL · WebXR · AR Quick Look) — for browser-based 3D and AR rendering.
+• WebGL — GPU-accelerated rendering for real-time 3D graphics.
+• WebXR (Android) and AR Quick Look (iOS 12+) — for device-level AR rendering and tracking.
+• glTF 2.0 (GLB) and USDZ — for efficient and interoperable 3D model formats.
+• AI Prediction — MobileNetV2 (quantized) executed locally via ONNX Runtime Web (WASM + SIMD, multithreaded)
+  for privacy-preserving, on-device inference.
+
+All computations, including AI prediction and AR rendering, occur entirely on the user’s device.
+No sensor data, images, or motion data are transmitted to external servers.
+
+---
+
+Attribution
+
+Pagoda 3D model © Google Poly, licensed under Creative Commons Attribution 3.0 (CC BY 3.0).
+https://creativecommons.org/licenses/by/3.0/
+
+Built with Model Viewer (https://modelviewer.dev) — an open-source library developed by Google
+for WebGL and WebXR-based visualization.
+
+ImageNet label set © 2012 Stanford Vision Lab, Princeton University, and UNC Chapel Hill.
+Used solely for academic and research demonstration purposes.
+For more information: http://www.image-net.org
+
+---
+
+The author acknowledges and complies with the respective open-source licenses of these technologies.
+This repository does not redistribute their source code or alter their licensing terms.
+
+For educational and research demonstration purposes only.
