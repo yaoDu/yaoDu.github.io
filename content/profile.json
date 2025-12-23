@@ -16,6 +16,11 @@
   "status": "Successfully defended thesis on September 5, 2025",
   "news": [
     {
+      "date": "October 2025",
+      "text": "Started a Mitacs research internship",
+      "subtext": "UBC Blockchain Graduate Training Pathway"
+    },
+    {
       "date": "September 2025",
       "text": "Successfully defended PhD thesis"
     },

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "i1",
+    "role": "Applied Research Intern",
+    "project": "Mitacs Project",
+    "organization": "Metis Foundation & LazAI Network",
+    "duration": "2025 – present",
+    "description": "Bridging academic research with real-world applications through industry collaborations, developing practical AI solutions and contributing to open-source projects. Working on the Alith SDK for decentralized AI infrastructure.",
+    "links": {
+      "metis": "https://www.metis.foundation/",
+      "lazai": "https://lazai.network/",
+      "sdk": "https://github.com/0xLazAI/alith/tree/main/sdks/python"
+    }
+  }
+]
+
