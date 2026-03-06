@@ -1,4 +1,4 @@
-All Rights Reserved © 2025 Yao Du
+All Rights Reserved © 2026 Yao Du
 
 This repository hosts the compiled and deployed version of a personal academic website
 and an interactive Augmented Reality (AR) demonstration with on-device AI inference.
