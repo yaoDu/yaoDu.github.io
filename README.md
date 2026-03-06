@@ -66,7 +66,7 @@ No camera data, sensor information, or user interactions are transmitted to any 
 
 ## ⚖️ License
 
-All rights reserved © 2025 Yao Du.  
+All rights reserved © 2026 Yao Du.  
 This project is distributed for **educational and research demonstration purposes only**.
 
 Open-source libraries (React, Vite, Tailwind CSS, shadcn-ui, model-viewer, ONNX Runtime Web, etc.)  
