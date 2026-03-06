@@ -4,15 +4,16 @@
     "title": "Decentralized Model Selection for Test-Time Adaptation in Heterogeneous Connected Systems",
     "authors": "Yao Du, Cyril Leung, Zehua Wang, Xiaoxiao Li, Victor C.M. Leung",
     "venue": "ACM Transactions on the Web",
-    "year": 2025,
-    "month": "August",
-    "pages": "1--25",
+    "year": 2026,
+    "month": "February",
+    "volume": "20",
+    "issue": "1",
+    "pages": "1--26",
     "type": "journal",
     "selected": true,
-    "status": "Accepted",
     "tags": ["Distributed ML", "Edge Computing", "Inference Optimization"],
     "links": {
-      "url": "https://dl.acm.org/doi/abs/10.1145/3764936"
+      "url": "https://doi.org/10.1145/3764936"
     },
     "note": "JCR Q1 in Computer science, Software engineering",
     "image": "/images/research/j1-overview.png"
@@ -110,21 +111,22 @@
     "note": "JCR Q2 in Computer science, Information systems"
   },
   {
-    "id": "m1",
+    "id": "j7",
     "title": "Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey",
     "authors": "Jing Liu, Yao Du, Kun Yang, Jiaqi Wu, Yan Wang, Xiping Hu, Zehua Wang, Yang Liu, Peng Sun, Azzedine Boukerche, Victor C.M. Leung",
-    "venue": "Journal Manuscript",
-    "year": 2025,
-    "month": "May",
-    "pages": "1--43",
-    "type": "manuscript",
-    "selected": false,
-    "status": "under review, IEEE Communications Surveys & Tutorials",
+    "venue": "IEEE Communications Surveys & Tutorials",
+    "year": 2026,
+    "month": "March",
+    "pages": "1--31",
+    "type": "journal",
+    "selected": true,
+    "status": "Early Access",
     "tags": ["Edge Computing", "Distributed ML", "Survey"],
     "links": {
-      "url": "https://arxiv.org/abs/2505.01821",
-      "arxiv": "https://arxiv.org/abs/2505.01821"
-    }
+      "url": "https://ieeexplore.ieee.org/document/11417814"
+    },
+    "impact factor": "46.7",
+    "note": "JCR Q1 in Computer science, Information systems"
   },
   {
     "id": "c1",
