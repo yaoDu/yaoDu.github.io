@@ -1,5 +1,22 @@
 [
   {
+    "id": "j8",
+    "title": "DeCLIP: Pareto-Efficient Collaborative Inference in Decentralized Physical Infrastructure Networks",
+    "authors": "Yao Du, Cyril Leung, Jing Liu, Zehua Wang, Victor C.M. Leung",
+    "venue": "IEEE Open Journal of the Computer Society",
+    "year": 2026,
+    "month": "May",
+    "volume": "7",
+    "pages": "1051--1063",
+    "type": "journal",
+    "selected": true,
+    "tags": ["Collaborative Inference", "Multimodal AI", "Decentralized AI"],
+    "links": {
+      "url": "https://doi.org/10.1109/OJCS.2026.3690486"
+    },
+    "note": "JCR Q1 in Computer science, Information systems"
+  },
+  {
     "id": "j1",
     "title": "Decentralized Model Selection for Test-Time Adaptation in Heterogeneous Connected Systems",
     "authors": "Yao Du, Cyril Leung, Zehua Wang, Xiaoxiao Li, Victor C.M. Leung",
@@ -89,7 +106,7 @@
     "links": {
       "url": "https://ieeexplore.ieee.org/abstract/document/8805125"
     },
-    "citations": "200+",
+    "citations": "270+",
     "note": "JCR Q1 in Telecommunications",
     "image": "/images/research/j5-system.png"
   },
@@ -117,16 +134,49 @@
     "venue": "IEEE Communications Surveys & Tutorials",
     "year": 2026,
     "month": "March",
-    "pages": "1--31",
+    "volume": "28",
+    "pages": "5049--5080",
     "type": "journal",
     "selected": true,
-    "status": "Early Access",
     "tags": ["Edge Computing", "Distributed ML", "Survey"],
     "links": {
-      "url": "https://ieeexplore.ieee.org/document/11417814"
+      "url": "https://doi.org/10.1109/COMST.2026.3669216"
     },
     "impact factor": "46.7",
     "note": "JCR Q1 in Computer science, Information systems"
+  },
+  {
+    "id": "c6",
+    "title": "QoS-Aware Token Scheduling and Private Data Valuation for Multi-Modal Agentic Networks",
+    "authors": "Yao Du, Jing Liu, Pengfei Xu, Zehua Wang, Victor C.M. Leung, Cyril Leung, Victoria Lemieux",
+    "venue": "Proceedings of IEEE International Conference on Multimedia & Expo (ICME)",
+    "year": 2026,
+    "month": "July",
+    "location": "Bangkok, Thailand",
+    "type": "conference",
+    "selected": true,
+    "status": "Oral Presentation",
+    "acceptance": "28.89%",
+    "tags": ["Agentic AI", "Token Scheduling", "Privacy"],
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2606.15573"
+    }
+  },
+  {
+    "id": "c7",
+    "title": "Projecting to Consensus: Communication-Efficient Collaborative Learning Across Heterogeneous Networks",
+    "authors": "Jing Liu, Yao Du, Yang Liu, Zehua Wang, Peng Sun, Victor C.M. Leung",
+    "venue": "Proceedings of IEEE International Conference on Communications (ICC)",
+    "year": 2026,
+    "month": "May",
+    "pages": "1--6",
+    "type": "conference",
+    "selected": false,
+    "tags": ["Federated Learning", "Collaborative Learning", "Consensus"],
+    "links": {
+      "url": "https://ieeexplore.ieee.org/document/11587964"
+    },
+    "note": "Federated Latent Space Consensus (FeLSC)"
   },
   {
     "id": "c1",

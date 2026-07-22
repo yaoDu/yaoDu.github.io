@@ -1,20 +1,36 @@
 {
   "name": "Yao Du",
-  "title": "PhD Graduate",
-  "institution": "University of British Columbia",
-  "location": "Vancouver, Canada",
-  "bio": "I'm a final-year PhD candidate at UBC specializing in blockchain-enabled decentralized machine learning and edge AI systems. My research focuses on developing reliable, fair, and efficient distributed learning frameworks that preserve data sovereignty while enabling collaborative intelligence at the edge.",
-  "email": "yaodu2024@gmail.com",
+  "title": "Postdoc Researcher",
+  "institution": "Nanyang Technological University",
+  "location": "Singapore",
+  "bio": "I am a Postdoc Researcher at the Joint NTU-WeBank Research Centre on Fintech at Nanyang Technological University in Singapore, working with Prof. Chunyan Miao and Prof. Cyril Leung. My research develops trustworthy and resource-efficient agentic systems for cloud-edge environments, integrating adaptive scheduling, collaborative learning, decentralized coordination, and multimodal inference.",
+  "email": "yaodu@ieee.org",
   "links": {
     "scholar": "https://scholar.google.com/citations?hl=en&user=gSY7FmwAAAAJ&view_op=list_works&sortby=pubdate",
     "github": "https://github.com/yaodu2024",
     "linkedin": "https://linkedin.com/in/yaodu2024",
     "orcid": "0000-0002-9086-5467",
     "website": "https://ece.ubc.ca",
-    "blockchain": "https://blockchain.ubc.ca/people/yao-du"
+    "blockchain": "https://blockchain.ubc.ca/people/yao-du",
+    "ntuWebank": "https://www.ntu.edu.sg/ntu-webank-jrc",
+    "advisor": "https://dr.ntu.edu.sg/entities/person/Miao-Chun-Yan"
   },
   "status": "Successfully defended thesis on September 5, 2025",
   "news": [
+    {
+      "date": "June 2026",
+      "text": "Joined the",
+      "subtext": "Joint NTU-WeBank Research Centre on Fintech",
+      "link": "https://www.ntu.edu.sg/ntu-webank-jrc"
+    },
+    {
+      "date": "May 2026",
+      "text": "DeCLIP published in the IEEE Open Journal of the Computer Society"
+    },
+    {
+      "date": "March 2026",
+      "text": "QoS-Aware Token Scheduling and Private Data Valuation for Multi-Modal Agentic Networks accepted at IEEE ICME 2026"
+    },
     {
       "date": "March 2026",
       "text": "PhD thesis now online at",
