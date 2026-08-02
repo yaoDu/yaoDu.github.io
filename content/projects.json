@@ -1,0 +1,23 @@
+{
+  "title": "Selected Systems",
+  "lead": "Two runnable systems for trustworthy intelligence under constraint: deterministic, auditable measurements first; models held at the edge and behind gates.",
+  "projects": [
+    {
+      "id": "verifile",
+      "name": "Verifile",
+      "hook": "Evidence-first SEC filing change analysis. Numbers are computed in Python, not invented by a model.",
+      "body": "Compares a company's two most recent comparable 10-Ks from SEC XBRL. Figures are deterministic with auditable provenance; a model is optional and gated, never the source of the numbers.",
+      "demo": "https://verifile.streamlit.app",
+      "source": "https://github.com/yaoDu/verifile",
+      "disclaimer": "Research aid only, not investment advice."
+    },
+    {
+      "id": "edge-ar",
+      "name": "Edge‑Intelligent AR Viewer",
+      "hook": "Browser AR and quantized classification that never leave your device.",
+      "body": "On-device WebGL/WebXR AR plus quantized MobileNetV2 classification. Camera and inference stay local; runs offline after load.",
+      "demo": "/ar-model/index.html",
+      "source": "https://github.com/yaoDu/yaoDu.github.io/tree/main/ar-model"
+    }
+  ]
+}
